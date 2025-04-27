@@ -59,7 +59,7 @@ Check it out live here:
 
 ---
 
- # 🧪 Getting Started Locally
+## 🧪 Getting Started Locally
 
 Follow these steps to set up and run the project on your local machine:
 
@@ -86,7 +86,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to view
 
 ---
 
-# ⚙️ Environment Variables
+## ⚙️ Environment Variables
 
 > **Note**: This project does not require environment variables at the moment.  
 > If future OpenAI integration is added, a `.env.local` file will be required with:
