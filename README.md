@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Styled%20With-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Styled with Tailwind CSS" />
   <img src="https://img.shields.io/badge/Powered%20By-Artificial%20Intelligence-10B981?style=flat&logo=openai&logoColor=white" alt="Powered by AI" />
   <img src="https://img.shields.io/badge/Live-Demo-65A30D?style=flat&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
 </p>
 
 
